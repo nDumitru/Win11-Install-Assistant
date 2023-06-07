@@ -5,6 +5,15 @@ This repository provides a solution to install Windows 11 on systems that do not
 
 Please note that modifying the registry can have unintended consequences, and these methods are intended for advanced users who understand the risks involved. Use them at your own discretion.
 
+## Usage
+
+This tool is intended for users who are determined to install Windows 11 on hardware that doesn't meet the minimum requirements. By bypassing certain system checks, it allows the installation to proceed on unsupported hardware configurations.
+
+Please note that bypassing these checks may lead to compatibility issues or reduced performance. It is recommended to ensure your hardware meets the official requirements for Windows 11 to ensure optimal functionality.
+
+Use this tool at your own risk, and make sure to understand the implications of running Windows 11 on unsupported hardware.
+
+
 ## Manual Installation Steps
 
 ### 1. Start a Clean Windows 11 Setup
