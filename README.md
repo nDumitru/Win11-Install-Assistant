@@ -49,6 +49,15 @@ Proceed with the Windows 11 installation process as usual.
 4. Once the process is complete, you will see a message indicating that the registry key and values have been created successfully.
 5. Close the Command Prompt window.
 
+### Installation using the Batch File (CMD and PowerShell)
+
+1. Start the clean setup process from your Windows 11 installation media (CD/USB).
+2. At the product key input step, press `Shift + F1` to open a Command Prompt (CMD) or PowerShell window.
+3. Run the following command to launch the registry configuration tool:
+
+   ```shell
+   create_registry_keys_v2.bat
+
 ## Disclaimer
 Modifying the Windows registry can have unintended consequences. These methods are intended for advanced users who understand the risks involved. The author and contributors of this repository take no responsibility for any issues or damages that may arise from the use of these methods.
 
